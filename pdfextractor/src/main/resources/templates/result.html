@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org">
+<head>
+    <title>Result</title>
+    <style>
+        .success { color: green; }
+        .error { color: red; }
+        .download-link {
+            display: inline-block;
+            padding: 10px;
+            background-color: #e7f4ff;
+            border: 1px solid #b3d7ff;
+            margin: 10px 0;
+        }
+    </style>
+</head>
+<body>
+<h1>Processing Result</h1>
+<p th:class="${message.startsWith('Error')} ? 'error' : 'success'"
+   th:text="${message}"></p>
+<a th:if="${downloadLink}"
+   th:href="'/download/' + ${downloadLink}"
+   class="download-link"
+   th:text="'Download ' + ${downloadLink}"></a>
+<p><a href="/">Upload another file</a></p>
+</body>
+</html>

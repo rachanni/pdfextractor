@@ -1,0 +1,30 @@
+सम्बंधित सहायक का नाम:........
+Name of Dealing Asst.
+मुहर/ Seal
+यातायात पुलिस बिहारश
+Traffic Police Bihar
+(प्रवर्तन शाखा/ Enforcement Branch)
+ई-चालान प्रशमन शुल्क जमा रसीद/ e-Challan compounding fee
+deposit receipt
+कार्यालय का नाम/ Office Name : Patna
+रसीद नं०/ Receipt No.:........ दिनांक / Date: 21/02/2025 Payment Date: 11/02/2025 22:21:30
+चालान संख्या/ Challan No: BR44938241012100239
+चालान दिनांक/ Challan Date: 10/10/2024 07:04:11
+अभियुक्त का नाम/ अभियुक्त का नाम R**I P*****T S***H
+वाहन संख्या/चेसिस नं० Vehicle no/ Chassis no. BR06AG6482/MBLHA11EWD9J*****
+पुस्तक संख्या/Book No. ........
+फॉर्म संख्या /Form No. ........
+1: Penalty for not wearing protective helmet by motorcycle driver or pillion rider ( 194D )
+[Fine - 1000]
+[Actual Speed - 51]
+प्रवर्तन अधिकारी का नाम व पदनाम/ Name and designation of Enforcement Officer: Challaning Officer
+and
+लेन देन संख्या/ Transaction Id : BR110225T8503079
+बैंक संदर्भ संख्या / Bank Reference Number : 402891401
+भुगतान लेनदेन संख्या / Payment Transaction Number :BRY2502110373452
+अदायगी रास्ता/ Payment Gateway : NA
+प्राप्त धनराशि/ Received Amount Rs : 1000 शब्दों में/ in Words : One Thousand Rupees only
+Amount Received By/ Amount Received through : Online Payment
+Powered By National Informatics Centre.All Rights Reserved.
+2/21/25, 11:13 AM echallan.parivahan.gov.in/api/print-challan-receipt?data=AZ4Pkm3WEPIFK5eDCGaMm%2BYyZfxfq%2BXdPVl1CK%2Bydc…
+https://echallan.parivahan.gov.in/api/print-challan-receipt?data=AZ4Pkm3WEPIFK5eDCGaMm%2BYyZfxfq%2BXdPVl1CK%2BydcmzDIVW9YiW… 1/1

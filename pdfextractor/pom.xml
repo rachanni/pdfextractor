@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
+	<modelVersion>4.0.0</modelVersion>
+	<parent>
+		<groupId>org.springframework.boot</groupId>
+		<artifactId>spring-boot-starter-parent</artifactId>
+		<version>3.4.5</version>
+		<relativePath/> <!-- lookup parent from repository -->
+	</parent>
+	<groupId>com.example</groupId>
+	<artifactId>pdfextractor</artifactId>
+	<version>0.0.1-SNAPSHOT</version>
+	<name>pdfextractor</name>
+	<description>This application offers a scalable and high-performance solution for extracting textual data from PDF files via a RESTful API. Users interact through a web-based interface, where they upload PDFs or provide file references. Upon request, the backend service processes the input using advanced text extraction libraries such as pdfminer.six, PyMuPDF (fitz), or Apache PDFBox, depending on configuration.  Key features include:      REST API Endpoint: A secure, stateless HTTP interface accepting POST requests with PDF files.      Text Parsing Engine: Intelligent parsers handle both standard and complex PDFs (e.g., multi-column layouts, embedded fonts, scanned documents with OCR integration if needed).      Performance Optimization: Asynchronous request handling via frameworks like FastAPI or Flask, enabling low-latency extraction even under load.      Scalability: Designed for containerized deployment using Docker, supporting orchestration via Kubernetes for horizontal scaling.      Cloud-readiness: Compatible with AWS Lambda, Azure Functions, or GCP Cloud Run for serverless deployments.      Security: Input validation, size restrictions, and optional authentication layers (OAuth2, API keys) to protect endpoints.      Logging &amp; Monitoring: Integrated observability with tools like Prometheus and Grafana, ensuring operational transparency.  This solution abstracts away the complexity of PDF parsing while providing developers with a reliable, production-ready service to integrate into larger systems or workflows.</description>
+	<url/>
+	<licenses>
+		<license/>
+	</licenses>
+	<developers>
+		<developer/>
+	</developers>
+	<scm>
+		<connection/>
+		<developerConnection/>
+		<tag/>
+		<url/>
+	</scm>
+	<properties>
+		<java.version>21</java.version>
+	</properties>
+	<dependencies>
+		<dependency>
+			<groupId>org.springframework.boot</groupId>
+			<artifactId>spring-boot-starter-thymeleaf</artifactId>
+		</dependency>
+		<dependency>
+			<groupId>org.springframework.boot</groupId>
+			<artifactId>spring-boot-starter-web</artifactId>
+		</dependency>
+
+		<dependency>
+			<groupId>org.springframework.boot</groupId>
+			<artifactId>spring-boot-starter-test</artifactId>
+			<scope>test</scope>
+		</dependency>
+
+
+
+
+		<!-- https://mvnrepository.com/artifact/org.apache.pdfbox/pdfbox -->
+		<dependency>
+			<groupId>org.apache.pdfbox</groupId>
+			<artifactId>pdfbox</artifactId>
+			<version>3.0.4</version>
+		</dependency>
+
+<!--		&lt;!&ndash; https://mvnrepository.com/artifact/org.apache.pdfbox/pdfbox &ndash;&gt;-->
+<!--		<dependency>-->
+<!--			<groupId>org.apache.pdfbox</groupId>-->
+<!--			<artifactId>pdfbox</artifactId>-->
+<!--			<version>3.0.2</version>-->
+<!--		</dependency>-->
+
+
+
+	</dependencies>
+
+	<build>
+		<plugins>
+			<plugin>
+				<groupId>org.springframework.boot</groupId>
+				<artifactId>spring-boot-maven-plugin</artifactId>
+			</plugin>
+		</plugins>
+	</build>
+
+</project>

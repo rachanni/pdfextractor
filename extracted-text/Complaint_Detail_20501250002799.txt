@@ -1,0 +1,62 @@
+ 
+ 
+ 
+ 
+ 
+ 
+Cyber Crime Incident
+Complaint / Incident Details
+Acknowledgement Number :  20501250002799
+Category of complaint Online Financial Fraud
+Sub-Category of complaint Fraud Call/Vishing
+Approximate Date: 2025-01-18 HH : 07 MM : 35  AM
+Is there any delay in reporting: No
+Supporting Evidence:
+Description Text Information Supporting Evidence
+Mobile App CC Credit Evidence202501191453255680421.pdf
+Please provide any additional information about the incident:
+Respected Sir,I have downloaded CC Credit app from Play store. And i
+have taken 2 loan from app on 13/01/2025. And due date is 19/01/2025. I
+have repaid the both loan on 18/01/2025 before the due date. But CC
+Credit app is showing third loan credited to my account on 14/01/2025. I
+have not received any amount on 14/01/2025 in my bank account. Also i
+have verified with my bank statement. Now they are threatning me to pay
+third loan. I have received threatning call on my number 919471565011
+through whatsapp and call. I have been panicked because some numbers
+are abroad based like Pakistan. I have listed down few numbers here.
+22796636080, 201127177124, 923291121401, 919973428267
+Suspect Details
+Suspect Name ID Type Country Code ID Number
+CC Credit Mobile Number +92 3291121401
+CC Credit Mobile Number +91 9973428267
+CC Credit Other +227 Phone Number 22796636080
+Please Upload Any Photograph of Suspect's: Suspectid202501191504542808162.jpeg
+Address for Suspect
+House No. N/A Country N/A
+Street Name N/A State N/A
+Colony N/A District N/A
+Vill / Town / City N/A Police Station N/A
+Tehsil N/A Pincode N/A
+Complainant Details
+Name Mr Amresh Bihari Jha
+Mobile No. 9471565011
+Gender. Male
+DOB. 02/10/1980
+Spouse Name : Minakshi Jha
+Relationship With the Victim Self
+National ID of Victim NationalId202501191507259298093.jpeg
+Email Id amr.jha@gmail.com
+Nationality : INDIAN
+Address for Correspondence
+House No. Raunak Galaxy Country INDIA
+ 
+ 
+Street Name Balaji Nagar State BIHAR
+Colony N/A District PATNA
+Vill / Town / City Patna Police Station N/A
+Tehsil N/A Pincode 801503
+Uploaded File Information:
+Number of Uploaded File 1
+ (1). File Name :                               Evidence202501191453255680421.pdf
+Binary Hash of File(SHA256) :       72D5A02FCEFC4E05DB88CA99B15829222700C65C69733404ADDDD139127DDEFC
+ Binary Hash of File(MD5) :            CC121394E6FFE7D6C6AC71B5F7D28C4C

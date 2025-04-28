@@ -1,0 +1,45 @@
+RAVI PRABHAT SINGH 
+Java Backend Developer | Spring MVC Specialist | RESTful API Developer 
+ 
++91 9644 144 687 | +91 8602 883 920 
+ raviprabhatsingh1@gmail.com 
+Patna, Bihar 
+SUMMARY 
+Detail-oriented Java Backend Developer with 3+ years of experience specializing in Java, 
+Spring MVC, and RESTful API development. Proven track record of building scalable, high-
+performance applications, optimizing system reliability, and delivering maintainable 
+backend services. Passionate about working in Agile environments and contributing to 
+innovative technology solutions. 
+SKILLS 
+Java (8, 11, 17, 21) | Spring MVC | Spring Boot | Hibernate | Spring Data JPA | Spring Security 
+| Git | GitHub | Maven | Jenkins | Docker | Kubernetes | Liquibase | REST APIs | 
+Microservices | SQL | Linux | Windows 
+EXPERIENCE 
+Associate Consultant | HOONARTEK 
+October 2020 – November 2023 
+Pune, India 
+- Built and maintained enterprise-grade Java applications using Spring MVC, ensuring 
+seamless integration with internal and third-party tools. 
+- Designed and developed scalable RESTful APIs to optimize service communication across 
+Agile Scrum teams. 
+- Diagnosed and resolved critical performance bottlenecks, significantly improving system 
+reliability and uptime. 
+- Led production maintenance activities and implemented enhancements with minimal 
+downtime. 
+- Authored comprehensive documentation for maintainability and faster onboarding. 
+EDUCATION 
+B.Tech in Electronics and Communication Engineering 
+LNCT Bhopal | 2016 – 2020 
+Bhopal, India 
+CERTIFICATION 
+• Java 8 New Features In Simple Way (Udemy) 
+• Learn JAVA Programming - Beginner to Master (Udemy) 
+• Build Your Own Website with HTML5 and CSS3 (Udemy) 
+• Core Java by Durga Sir (YouTube) 
+• Servlet and JSP Programming (YouTube) 
+PROJECTS 
+PDF Text Extraction Microservice | Individual Project 
+- Developed and deployed a Spring Boot application to extract and download text from PDFs 
+using PDFBox 3.0.4 and Java 21. 
+- Focused on performance optimization, API security, and ensuring high reliability after 
+deployment. 
